@@ -14,7 +14,7 @@
 
 ## Table no: Low level test plan
 
-| **Test ID** |  **Description**                                                  | **Expected Input* | **Expected Output** | **Actual Out** |    
+| **Test ID** |  **Description**                                                  | **Expected Input** | **Expected Output** | **Actual Out** |    
 |-------------|-------------------------------------------------------------------|------------|-------------|----------------|
 |LLT_01|Addition of two numbers|A,B|A+B|A+B|
 |LLT_02|Subtraction of two numbers|A,B|A-B|A-B|
