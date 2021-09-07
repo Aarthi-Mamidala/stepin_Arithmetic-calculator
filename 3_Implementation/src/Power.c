@@ -8,7 +8,17 @@
  */
 int Power(int A, int B)
 {
-  int power1;
-    power1=pow(A, B);
-    return power1;
+    if(B==0)
+    {
+        return 1;
+    }
+    else
+    {
+        int i,pow=1;
+        for(i=pow;i<=B;i++)
+        {
+            pow*=A;
+        }
+        return pow;
+    }
 }
