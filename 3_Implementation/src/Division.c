@@ -7,7 +7,7 @@
  * @return int  it returns the output value
  */
 
-int Div(int A ,int B)
+int Division(int A ,int B)
 {
      if(B==0)
     {
