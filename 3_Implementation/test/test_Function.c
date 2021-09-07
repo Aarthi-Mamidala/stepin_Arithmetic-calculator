@@ -9,7 +9,7 @@ void tearDown(){}
 
 void test_C(void)
 {
-  TEST_ASSERT_EQUAL(25, C(10,15));
+  TEST_ASSERT_EQUAL(25, C(10,15));//testing for Addition
   TEST_ASSERT_EQUAL(775, C(25,750));
 }
 
