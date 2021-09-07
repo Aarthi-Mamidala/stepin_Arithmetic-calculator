@@ -24,6 +24,7 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
 ##  Low level Requirements:
  
 | ID | | Description | HLR ID | Status (Implemented/Future) |
+
 | ------ | --------- | ------ | ----- |
 |LLR_01 | |Addition of the numbers|Technical | Implemented| 
 |LLR_02 | |Subtraction of the numbers|Technical | Implemented|  
