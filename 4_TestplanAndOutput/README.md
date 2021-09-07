@@ -2,7 +2,7 @@
 
 ## Table no: High level test plan
 
-| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |   
+| **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** | **Actual Out** |   
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|
 |  HLT_08       | Power of number | A,B | A^B | A^B | 
 |  HLT_09      | Power of 0  | B=0  | 1 | 1 |
@@ -14,7 +14,7 @@
 
 ## Table no: Low level test plan
 
-| **Test ID** |  **Description**                                                  | **Exp IN** | **Exp OUT** | **Actual Out** |    
+| **Test ID** |  **Description**                                                  | **Expected Input* | **Expected Output** | **Actual Out** |    
 |-------------|-------------------------------------------------------------------|------------|-------------|----------------|
 |LLT_01|Addition of two numbers|A,B|A+B|A+B|
 |LLT_02|Subtraction of two numbers|A,B|A-B|A-B|
