@@ -1,4 +1,6 @@
 # stepin_Arithmetic-calculator
+![cartoon-calculator-006](https://user-images.githubusercontent.com/89648059/132311816-d7e16d01-0017-4105-a873-8ab5d16326a4.png)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
