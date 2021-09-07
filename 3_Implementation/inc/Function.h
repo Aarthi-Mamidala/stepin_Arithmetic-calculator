@@ -25,15 +25,15 @@ typedef enum Error
  * @return int to return the value
  */
 
-    int Add1(int A, int B);/* Addition two numbers*/
+    int Addition(int A, int B);/* Addition two numbers*/
     
-    int Sub1(int A, int B);/* Subtraction two numbers */
+    int Subtraction(int A, int B);/* Subtraction two numbers */
 
-    int Mul1(int A, int B);/* Multiplication two numbers */
+    int Multipilication(int A, int B);/* Multiplication two numbers */
 
-    int Div1(int A, int B);/* Division two numbers  */
+    int Division(int A, int B);/* Division two numbers  */
 
-    int Mod1(int A, int B);/* Modulus two numbers  */
+    int Modulus(int A, int B);/* Modulus two numbers  */
 
     int Power(int A, int B);/* Power of  numbers  */
 
