@@ -29,6 +29,6 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
 |LLR_02 |Subtraction of two numbers|Technical | Implemented|  
 |LLR_03 |Multiplication of two numbers|Technical | Implemented|  
 |LLR_04 |Division of two numbers|Technical | Implemented|  
-|LLR_05 |Modulos oftwo numbers|Technical | Implemented|
+|LLR_05 |Modulos of two numbers|Technical | Implemented|
 
 
