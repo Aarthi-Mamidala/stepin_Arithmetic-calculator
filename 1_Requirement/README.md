@@ -23,13 +23,13 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
 
 ##  Low level Requirements:
  
-| ID | | Description | HLR ID | Status (Implemented/Future) |
-
+| ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-|LLR_01 | |Addition of the numbers|Technical | Implemented| 
-|LLR_02 | |Subtraction of the numbers|Technical | Implemented|  
-|LLR_03 |HLR_01 |Multiplication of the numbers|Technical | Implemented|  
-|LLR_04 | |Division of the numbers|Technical | Implemented|  
-|LLR_05 | |Modulos of the numbers|Technical | Implemented|
+|LR01 |Addition of the numbers|Technical | Implemented| 
+|LR02 |Subtraction of the numbers|Technical | Implemented|  
+|LR03 |Multiplication of the numbers|Technical | Implemented|  
+|LR04 |Division of the numbers|Technical | Implemented|  
+|LR05 |Modulos of the numbers|Technical | Implemented|
+|LR06 |Square of the number|Technical | Implemented|
 
 
