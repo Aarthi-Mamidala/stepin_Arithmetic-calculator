@@ -7,7 +7,7 @@
  * @param B operand2
  * @return int  it returns the output value
  */
-int Multiplication(int A,int B)
+int Multiplication(int A, int B)
 {
      if(A==0||B==0)
     {
