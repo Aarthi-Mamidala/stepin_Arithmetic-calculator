@@ -19,7 +19,7 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HLR_01-LLR_03 |Powers of the number(base,exponent) | Techincal |  IMPLEMENTED  |
+| HLR_01-LLR_03 |Powers of the number | Techincal |  Implemented  |
 
 ##  Low level Requirements:
  
