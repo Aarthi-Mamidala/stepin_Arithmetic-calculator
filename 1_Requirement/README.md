@@ -19,16 +19,16 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HLR_01-LLR_03 |Powers of the number | Techincal |  IMPLEMENTED  |
+| HLR_01-LLR_03 |Powers of the number(base,exponent) | Techincal |  IMPLEMENTED  |
 
 ##  Low level Requirements:
  
-| ID | Description | HLR ID | Status (Implemented/Future) |
+| ID | Description | HLR ID | Status |
 | ------ | --------- | ------ | ----- |
-|LLR_01 |Addition of the numbers|Technical | Implemented| 
-|LLR_02 |Subtraction of the numbers|Technical | Implemented|  
-|LLR_03 |Multiplication of the numbers|Technical | Implemented|  
-|LLR_04 |Division of the numbers|Technical | Implemented|  
-|LLR_05 |Modulos of the numbers|Technical | Implemented|
+|LLR_01 |Addition of two numbers|Technical | Implemented| 
+|LLR_02 |Subtraction of two numbers|Technical | Implemented|  
+|LLR_03 |Multiplication of two numbers|Technical | Implemented|  
+|LLR_04 |Division of two numbers|Technical | Implemented|  
+|LLR_05 |Modulos oftwo numbers|Technical | Implemented|
 
 
