@@ -7,7 +7,7 @@
  * @param B operand2
  * @return int  it returns the output value
  */
-int Mul(int A ,int B)
+int Mul(int A,int B)
 {
      if(A==0||B==0)
     {
