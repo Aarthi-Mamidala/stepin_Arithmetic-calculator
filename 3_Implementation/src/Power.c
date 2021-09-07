@@ -6,7 +6,7 @@
  * @param B operand2
  * @return int  it returns the output value
  */
-int Power(int A ,int B)
+int Power(int A, int B)
 {
   int power1;
     power1=pow(A, B);
