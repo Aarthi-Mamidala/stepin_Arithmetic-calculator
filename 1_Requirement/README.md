@@ -1,10 +1,5 @@
 # Requirements
-# 1.Software Requirements:
-       •	C-Language.
-       •	Windows Operating System/Linux Operating System.
-# 2.Data Requirements:
-        •	To display numbers and the result
-        •	Numbers from 0-9
-        •	Operations	such	as	addition,	subtraction,	multiplication,	division, modulus  buttons (+, -, *, /, %)
-        •	Get correct output
-        •	Store result
+# Introduction
+It is a Arithmetic calculator project. In  some of calculators we can add, subtract, multiply, divide the numbers. In this project we can find power the numbers abd also the modulus of two numbers.
+#SWOT
+
