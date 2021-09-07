@@ -6,7 +6,7 @@
  * @param B operand2
  * @return int  it returns the output value
  */
- int Sub(int A ,int B)
+ int Subtraction(int A ,int B)
 {
     return A-B;
 }
