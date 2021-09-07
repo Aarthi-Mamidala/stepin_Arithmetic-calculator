@@ -22,4 +22,4 @@
 |LLT_04|Multiplication of two numbers|A,B=0|0|0|requirement based|
 |LLT05|Division of two numbers|A,B|A/B|A/B|requirement based|
 |LLT_06|Division of two numbers|B=0|-1|-1|requirement based|
-|LLT_07Modulus of two numbers|A,B|A%B|A%B|requirement based|
+|LLT_07|Modulus of two numbers|A,B|A%B|A%B|requirement based|
