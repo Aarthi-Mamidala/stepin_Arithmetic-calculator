@@ -15,4 +15,20 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
 
 #How: This project works in computer or laptop.
 
+# Detail requirements
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HLR_01 |Powers of the number | Techincal |  IMPLEMENTED  |
+
+##  Low level Requirements:
+ 
+| ID | | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+|LLR_01 | |Addition of the numbers|Technical | Implemented| 
+|LLR_02 | |Subtraction of the numbers|Technical | Implemented|  
+|LLR_03 |HLR_01 |Multiplication of the numbers|Technical | Implemented|  
+|LLR_04 | |Division of the numbers|Technical | Implemented|  
+|LLR_05 | |Modulos of the numbers|Technical | Implemented|
+
 
