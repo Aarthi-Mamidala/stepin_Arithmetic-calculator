@@ -8,8 +8,8 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#ifndef __MAIN_H__
-#define __MAIN_H__
+#ifndef __FUNCTION_H__
+#define __FUNCTION_H__
 /*
 typedef enum Error
 {
