@@ -25,11 +25,10 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-|LR01 |Addition of the numbers|Technical | Implemented| 
-|LR02 |Subtraction of the numbers|Technical | Implemented|  
-|LR03 |Multiplication of the numbers|Technical | Implemented|  
-|LR04 |Division of the numbers|Technical | Implemented|  
-|LR05 |Modulos of the numbers|Technical | Implemented|
-|LR06 |Square of the number|Technical | Implemented|
+|LLR_01 |Addition of the numbers|Technical | Implemented| 
+|LLR_02 |Subtraction of the numbers|Technical | Implemented|  
+|LLR_03 |Multiplication of the numbers|Technical | Implemented|  
+|LLR_04 |Division of the numbers|Technical | Implemented|  
+|LLR_05 |Modulos of the numbers|Technical | Implemented|
 
 
