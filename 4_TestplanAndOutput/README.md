@@ -4,9 +4,10 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  HLT_06      | Power of 0  | B=0  | 1 | 1 | requirement based|
-|  HLT_07      |Power of  1 | B=1| A | A | requirement based|
 |  HLT_08       | Power of number | A,B | A^B | A^B | requirement based|
+|  HLT_09      | Power of 0  | B=0  | 1 | 1 | requirement based|
+|  HLT_10      |Power of  1 | B=1| A | A | requirement based|
+
 
 
 
@@ -15,8 +16,10 @@
 
 | **Test ID** |  **Description**                                                  | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|-------------------------------------------------------------------|------------|-------------|----------------|------------------|
-|LLT_1|Addition of two numbers|A,B|A+B|A+B|requirement based|
-|LLT_2|Subtraction of two numbers|A,B|A-B|A-B|requirement based|
-|LLT_3|Multiplication of two numbers|A,B|A*B|A*B|requirement based|
-|LLT_4|Division of two numbers|A,B|A/B|A/B|requirement based|
-|LLT_5|Modulus of two numbers|A,B|A%B|A%B|requirement based|
+|LLT_01|Addition of two numbers|A,B|A+B|A+B|requirement based|
+|LLT_02|Subtraction of two numbers|A,B|A-B|A-B|requirement based|
+|LLT_03|Multiplication of two numbers|A,B|A*B|A*B|requirement based|
+|LLT_04|Multiplication of two numbers|A,B=0|0|0|requirement based|
+|LLT05|Division of two numbers|A,B|A/B|A/B|requirement based|
+|LLT_06|Division of two numbers|B=0|-1|-1|requirement based|
+|LLT_07Modulus of two numbers|A,B|A%B|A%B|requirement based|
