@@ -15,7 +15,7 @@ void test_C(void)
 
 void test_D(void)
 {
-  TEST_ASSERT_EQUAL(14, D(20,6));
+  TEST_ASSERT_EQUAL(14, D(20,6));//Testing for Subtraction
   TEST_ASSERT_EQUAL(90, D(150,60));
 }
 
