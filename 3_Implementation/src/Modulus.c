@@ -1,7 +1,7 @@
 
 #include"Function.h"
 /**
- * @brief  function to find modulus of two numbers
+ * @brief  finding  modulus of two numbers
  * 
  * @param A operand1
  * @param B operand2
