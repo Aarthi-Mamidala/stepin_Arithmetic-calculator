@@ -17,4 +17,4 @@ Folder                   | Description
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |-------|---------|----------------|-------------|--------------|
-| `99006165` | Mamidala Aarthi | Arthimetic Opearations |  15  |  15 |
+| `99006165` | Mamidala Aarthi | Arthimetic Opearations |  16  |  16 |
