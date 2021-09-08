@@ -19,7 +19,7 @@ typedef enum Error
 */
 
 /**
- * @brief Arithmetic Calculator 
+ * @brief Arithmetic-Calculator 
  * 
  * @param A  operand1
  * @param B operand2
