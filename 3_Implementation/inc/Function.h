@@ -14,6 +14,7 @@
 typedef enum Error
 {
     Error_div_by_Zero=0,
+    Power_Zero=1,
 }error;
 */
 
