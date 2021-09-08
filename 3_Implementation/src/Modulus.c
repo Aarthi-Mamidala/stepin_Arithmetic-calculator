@@ -7,7 +7,7 @@
  * @param B operand2
  * @return int  it returns the output value
  */
-int Modulus(int A ,int B)
+int Modulus(int A, int B)
 {
         int REM=0;
         REM=A%B;
