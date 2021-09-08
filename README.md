@@ -13,3 +13,8 @@ Folder                   | Description
 `5_Report`               | Documentation of whole project
 `6_ImagesAndVideos`      | Code Execution Images and Videos
 `7_`Others      | Other files
+
+## Contributors List and Summary
+|PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|-------|---------|----------------|-------------|--------------|
+| `99006165` | Mamidala Aarthi | Arthimetic Opearations |  15  |  15 |
