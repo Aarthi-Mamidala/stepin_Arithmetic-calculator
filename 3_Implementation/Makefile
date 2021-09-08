@@ -14,12 +14,6 @@ src/Modulus.c\
 src/Power.c\
 
 # All test source files
-TEST_SRC = src/Sum.c\
-src/Subtraction.c\
-src/Multiplication.c\
-src/Division.c\
-src/Modulus.c\
-src/Power.c\
 test/test_Function.c\
 unity/unity.c\
 
