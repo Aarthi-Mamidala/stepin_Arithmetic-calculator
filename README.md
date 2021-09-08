@@ -7,6 +7,8 @@ It is a Arithmetic calculator project. In  some of calculators we can add, subtr
 
 [![Code grade](https://www.code-inspector.com/project/28088/status/svg)](https://www.code-inspector.com)
 
+[![C/C++ CI](https://github.com/Aarthi-Mamidala/stepin_Arithmetic-calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Aarthi-Mamidala/stepin_Arithmetic-calculator/actions/workflows/c-cpp.yml)
+
 
 ## Folder Structure
 Folder                   | Description
