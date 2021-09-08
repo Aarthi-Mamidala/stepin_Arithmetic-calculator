@@ -3,6 +3,8 @@
 # Introduction
 It is a Arithmetic calculator project. In  some of calculators we can add, subtract, multiply, divide the numbers. In this project we can find power the numbers and also the modulus of two numbers.
 
+https://www.code-inspector.com/project/28088/score/svg
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
@@ -18,4 +20,3 @@ Folder                   | Description
 |PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |-------|---------|----------------|-------------|--------------|
 | `99006165` | Mamidala Aarthi | Arthimetic Opearations |  16  |  16 |
-https://www.code-inspector.com/project/28088/score/svg
