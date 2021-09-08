@@ -26,17 +26,17 @@ typedef enum Error
  * @return int to return the value
  */
 
-    int Addition(int A, int B);/* Addition two ints */
+    int Addition(int A, int B);
     
-    int Subtraction(int A, int B);/* Subtraction two ints */
+    int Subtraction(int A, int B);
 
-    int Mulltiplication(int A, int B);/* Multiplication two ints */
+    int Mulltiplication(int A, int B);
 
-    int Division(int A, int B);/* Division two ints */
+    int Division(int A, int B);
 
-    int Modulus(int A, int B);/* Modulus two ints */
+    int Modulus(int A, int B);
 
-    int Power(int A, int B);/* Power of  ints */
+    int Power(int A, int B);
 
 
 #endif
