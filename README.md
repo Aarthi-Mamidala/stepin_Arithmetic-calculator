@@ -18,3 +18,4 @@ Folder                   | Description
 |PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |-------|---------|----------------|-------------|--------------|
 | `99006165` | Mamidala Aarthi | Arthimetic Opearations |  16  |  16 |
+https://www.code-inspector.com/project/28088/score/svg
