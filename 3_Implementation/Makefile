@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Arithmetic Calculator
+PROJECT_NAME = Arithmetic-calculator
 
 # Output directory
 BUILD = build
