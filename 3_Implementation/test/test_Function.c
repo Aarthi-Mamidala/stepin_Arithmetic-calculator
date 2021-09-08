@@ -7,13 +7,13 @@ void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
 
-void test_C(void)
+void test_Addition(void)
 {
   TEST_ASSERT_EQUAL(25, Addition(10,15));
   TEST_ASSERT_EQUAL(775, Addition(25,750));
 }
 
-void test_D(void)
+void test_Subtraction(void)
 {
   TEST_ASSERT_EQUAL(14, Subtraction(20,6));
   TEST_ASSERT_EQUAL(90, Subtraction(150,60));
