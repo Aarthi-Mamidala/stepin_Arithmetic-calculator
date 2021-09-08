@@ -4,6 +4,7 @@
 It is a Arithmetic calculator project. In  some of calculators we can add, subtract, multiply, divide the numbers. In this project we can find power the numbers and also the modulus of two numbers.
 
 [!Code Quality](]https://www.code-inspector.com/project/28088/score/svg)(https://www.code-inspector.com)
+
 [!Code Quality](https://www.code-inspector.com/project/28088/status/svg)(https://www.code-inspector.com)
 
 ## Folder Structure
