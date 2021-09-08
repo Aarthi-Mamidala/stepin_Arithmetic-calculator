@@ -18,7 +18,7 @@
  * @param B operand2
  * @return int  it returns the output value
  */
-int Add(int A, int B)
+int Addition(int A, int B)
 {
 
     return A+B;
