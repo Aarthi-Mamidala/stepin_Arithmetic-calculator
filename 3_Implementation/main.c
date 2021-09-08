@@ -11,29 +11,30 @@
 #include"Function.h"
 #include<stdio.h>
 #include<math.h>
-/**
- * @brief Arithmetic calculator
- * 
- * @param A  operand 1
- * @param B  operand 2
- * @return int  returns the output value
- */
-int main()
+int Addition(int a ,int b);
+
+
+int Subtraction(int a ,int b);
+
+
+int Multiplication(int a ,int b);
+
+
+int Division(int a ,int b);
+
+
+int Modulus(int a ,int b);
+
+
+int Power(int a ,int b);
+
+
+/*int main()
 {
-    int A, B,C,D,E,F,G,H;
-    
-    C=Addition(A,B);
-
-    D=Subtraction(A, B);
-
-    E=Mulltiplication( A,B);
-
-    F=Division( A,B);
-
-    G=Modulus(A, B);
-
-    H=Power(A,B);
-    printf("C=%d,D=%d,E=%d,F=%d,G=%d,H=%d\n",C,D,E,F,G,H);
+    printf(".............................\n");
+    printf("\t\t\t\t\t\tWELCOME\n");
+    printf("\t\t\t\t\t\t\t\t\t\t.....................\n");
     return 0;
 }
+*/
 
