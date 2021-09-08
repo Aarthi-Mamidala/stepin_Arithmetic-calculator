@@ -4,6 +4,7 @@
 It is a Arithmetic calculator project. In  some of calculators we can add, subtract, multiply, divide the numbers. In this project we can find power the numbers and also the modulus of two numbers.
 # My Code Inspector Stats
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8c05e338def047cebbd85cc47415ee93)](https://app.codacy.com/gh/Aarthi-Mamidala/stepin_Arithmetic-calculator?utm_source=github.com&utm_medium=referral&utm_content=Aarthi-Mamidala/stepin_Arithmetic-calculator&utm_campaign=Badge_Grade_Settings)
 [![Code Quality](https://www.code-inspector.com/project/28088/score/svg)](https://www.code-inspector.com)
 
 [![Code grade](https://www.code-inspector.com/project/28088/status/svg)](https://www.code-inspector.com)
