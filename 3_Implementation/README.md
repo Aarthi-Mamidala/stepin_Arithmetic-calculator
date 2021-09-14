@@ -1,8 +1,5 @@
 
-#IMPLEMENTATION
-
-
-> implementing the Code.
+# IMPLEMENTATION
 
 ## Folder Structure
 Folder        | description
