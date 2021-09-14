@@ -11,6 +11,13 @@
 #include"Function.h"
 #include<stdio.h>
 #include<math.h>
+int main()
+{
+    printf(".............................\n");
+    printf("\t\t\t\t\t\tWelcome\n");
+    return 0;
+}
+
 int Addition(int a ,int b);
 
 
@@ -29,12 +36,5 @@ int Modulus(int a ,int b);
 int Power(int a ,int b);
 
 
-/*int main()
-{
-    printf(".............................\n");
-    printf("\t\t\t\t\t\tWELCOME\n");
-    printf("\t\t\t\t\t\t\t\t\t\t.....................\n");
-    return 0;
-}
-*/
+
 
